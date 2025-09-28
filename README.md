@@ -16,3 +16,9 @@ Em "Bases de Dados" estão todas as bases de dados usadas para esse teste em esp
 O arquivo "Leia-me Tutorial Teste Técnico" é um pequeno passo a passo de como criar a conta no Databricks e importar todos os arquivos para a plataforma.
 
 Por fim temos o arquivo "Teste técnico recrutamento_MARCO_MATA", onde está minha resolução final de todo o teste e com uma descrição detalhada de todas as decisões e códigos.
+
+---
+
+### Como usar
+
+Para poder visualizar minha resolução recomendo que use o Databricks e importe meu arquivo notebook junto com todas as bases de dados, caso contrário não será possível visualizar o resultado.
