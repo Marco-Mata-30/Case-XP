@@ -21,4 +21,5 @@ Por fim temos o arquivo *"Teste técnico recrutamento_MARCO_MATA"*, onde está m
 
 ## Como usar
 
-Para poder visualizar minha resolução recomendo que use o Databricks e importe meu arquivo notebook junto com todas as bases de dados, caso contrário não será possível visualizar o resultado.
+Para poder visualizar minha resolução recomendo que use o **Databricks** e importe meu arquivo notebook junto com todas as bases de dados, caso contrário não será possível visualizar o resultado.
+E para isso recomendo fortemente realizar o passo a passo descrito no *"Leia-me Tutorial Teste Técnico"*.
